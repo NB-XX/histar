@@ -9,6 +9,7 @@ from urllib.parse import quote
 # 忽略 SSL 警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+
 # 配置重试机制
 retry_strategy = Retry(
     total=5,
@@ -44,7 +45,7 @@ for channelGroup in channelGroups:
         channel_name = channel["name"]
         channel_logo = channel["img"]
         channel_url = channel["url"]
-        channel_info_url = f"https://hlove.tv/_next/data/ke5C4eP_1dLXLktnA_yOQ/live/{channel_url}.json?id={channel_url}"
+        channel_info_url = f"https://hlove.tv/_next/data/kJPkB7HSGCESo4DI00zU0/live/{channel_url}.json?id={channel_url}"
 
         try:
             response = http.get(channel_info_url, verify=False)
