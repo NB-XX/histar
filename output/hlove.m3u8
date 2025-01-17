@@ -1,239 +1,237 @@
 #EXTM3U
 #x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-01-17 09:48:20" tvg-logo="https://live.fanmingming.com/tv/2025-01-17%2009:48:20.png" group-title="更新时间",2025-01-17 09:48:20
+#EXTINF:-1 tvg-name="2025-01-17 10:11:32" tvg-logo="https://live.fanmingming.com/tv/2025-01-17%2010:11:32.png" group-title="更新时间",2025-01-17 10:11:32
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://static.ymedium.top/media/img/2023-11-30/89a6b1fac3ceeee5134c28e169cf2251.png" group-title="大陆央视",CCTV-1 综合
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D1
+https://ali.hlspull.yximgs.com/live/8993f3124187bb1e7214437462e37490.flv
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/e657b56596d96fffff3074eba0a738f0.png" group-title="大陆央视",CCTV-2 财经
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D2
+https://ali.hlspull.yximgs.com/live/9b3915662b9a364b889c7a09e1d10103.flv
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/7342c95efd04ed9793cbfc5a0a8c879e.png" group-title="大陆央视",CCTV-3 综艺
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D3
+https://ali.hlspull.yximgs.com/live/dcee63c9904323cccfeeb3a91cb90ff1.flv
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/e0163c90dfbd0e5f61b4211a690fc9f6.png" group-title="大陆央视",CCTV-4 中文国际
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D4
+https://ali.hlspull.yximgs.com/live/fd4abcc3cca7a63eb00c089499ddcd99.flv
 #EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/c33edddbe29ec9143d428f27d4a646ac.png" group-title="大陆央视",CCTV-6 电影
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D7
+https://ali.hlspull.yximgs.com/live/c3c71cff3242c91bea1c2a9c9832868f.flv
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/c80decf1aaac9eb5b55d262293d22567.png" group-title="大陆央视",CCTV-7 国防军事
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D8
+https://ali.hlspull.yximgs.com/live/31e25f8f4427cc1e1601b7b41e7b8c52.flv
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/da83cb27fd0848fb6ba28c79974b6867.png" group-title="大陆央视",CCTV-8 电视剧
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D9
+https://ali.hlspull.yximgs.com/live/3a974434aa0026e0ebf979d8c89be4e1.flv
 #EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/f5a5867f230cbb1ed3dcd3bd690e9be4.png" group-title="大陆央视",CCTV-9 纪录
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D10
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/224d871be82883fc071ce82b2fbc8978.png" group-title="大陆央视",CCTV-10 科教
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D11
+https://ali.hlspull.yximgs.com/live/9149e740ebe4f4a25819c306d47b6ade.flv
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/5b37d3f796bacd161fc8ad525fdfbfd9.png" group-title="大陆央视",CCTV-11 戏曲
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D12
+https://ali.hlspull.yximgs.com/live/4fabbdb1a2a3e95e54e835b6035d006c.flv
 #EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/a0fd933f26f3573d5049c50e109c41b4.png" group-title="大陆央视",CCTV-12 社会与法
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D13
+https://ali.hlspull.yximgs.com/live/6f589cbf84aac0e5ee28ec5af38e8ba4.flv
 #EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/053124d7e916a14c60e7cb77cd95bd0f.png" group-title="大陆央视",CCTV-13 新闻
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D14
+https://ali.hlspull.yximgs.com/live/dfec8e4d83d34dc48e3930300b2b0f5c.flv
 #EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/a79b5b3bb88b512ce968a369ac193176.png" group-title="大陆央视",CCTV-14 少儿
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D15
+https://ali.hlspull.yximgs.com/live/3a3ce5a2bbd8e4362ef6b4a42a709795.flv
 #EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/3639c6aaa5151cb9d7b75d5994046e3f.png" group-title="大陆央视",CCTV-15 音乐
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D16
+https://ali.hlspull.yximgs.com/live/0bdedcc59fd0d8365a08ec0ec432c147.flv
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/504d70fb569134a353f5ffc39ceb0229.png" group-title="大陆央视",CCTV-16 奥林匹克
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D7
+https://ali.hlspull.yximgs.com/live/b666a5ca7bd6fe314a4b65a43263cac5.flv
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/3dc3e477aba3405133386eee71238a40.png" group-title="大陆央视",CCTV-17 农业农村
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dys%26id%3D18
+https://ali.hlspull.yximgs.com/live/6df8d6feb047f186aa7d1a99f05b2d34.flv
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="大陆央视",CCTV风云足球
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D21
+https://player.ggiptv.com/v/ysp6.php%3Ftoken%3DWXgubdA2ecBTqzR1WishD3vH%26xra%3D2%26id%3Dfyzq
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/290ebbfaed1914c1de1b752359f49421.png" group-title="大陆卫视",湖南卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D1
+https://ali.hlspull.yximgs.com/live/12e83862a441f648ad5aadcd8bd2a751.flv
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/47ceafd9cf44cccd24a129ae2a62c0ea.png" group-title="大陆卫视",浙江卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D3
+https://ali.hlspull.yximgs.com/live/ab520b5ba072528cb0d81d735ab25b3a.flv
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/bc40658602043d05d7d41f5b5690ecc2.png" group-title="大陆卫视",东方卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D4
+https://ali.hlspull.yximgs.com/live/017feef0b96517db8f7450357213c663.flv
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/cbeb656f088d3cab170d886c74c31f86.png" group-title="大陆卫视",江苏卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D2
+https://ali.hlspull.yximgs.com/live/ee2e6e564a4b95de84f354d806d8e2cc.flv
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/2394d416aabb7865ed790faefd263ec5.png" group-title="大陆卫视",北京卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D5
+https://ali.hlspull.yximgs.com/live/73bbfa33c6b224546569993bd901a29a.flv
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/181eb4f3053e6c94e4206704c4074492.png" group-title="大陆卫视",深圳卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D6
+https://ali.hlspull.yximgs.com/live/79585eed3754a55513b982fb65371444.flv
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/65a07c81762d75b5dfb15e87aba4b5b6.png" group-title="大陆卫视",广东卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D7
+https://ali.hlspull.yximgs.com/live/b91bdc540625fa45a4a313602d8b4b58.flv
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://static.ymedium.top/media/other/2024-01-12/4d94d53dc0dae73430aaad819e5ec5c2.webp" group-title="大陆卫视",大湾区卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D36
+https://player.ggiptv.com/v/migu8.php%3Ftoken%3D8SpS7uZc5pyhn8UklktAEpGz%26id%3Ddwqws
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/1e4b95da850b6b9c0bead92047ef2660.png" group-title="大陆卫视",重庆卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D19
+https://ali.hlspull.yximgs.com/live/f63b28ef6a968c68300e9ddafaaa91e5.flv
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/58293d3dfee292fe584261f617ca31f2.png" group-title="大陆卫视",东南卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D9
+https://ali.hlspull.yximgs.com/live/9080e19cd786dd5aaf5289fbdcb9a0c6.flv
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/511cdb6f94db861ace7f246f55cacb36.png" group-title="大陆卫视",广西卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D22
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DlTjUEQYVLFuGhKfj%252BGwcCp6k%26id%3Dgxws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/b53bb38bf456ebc9d20be7922ea10a70.png" group-title="大陆卫视",贵州卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D20
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DgkF2sygZUJZj2kMdXmprxr9j%26id%3Dgzws
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/95f170d56a00f1eb078055322cf85aaf.png" group-title="大陆卫视",海南卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D15
+https://player.ggiptv.com/v/migu8.php%3Ftoken%3DN6ualcNPKNwY3zuEupNo4BCQ%26id%3Dhinws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/83df61a38e9619fcf473dd9fc25f2710.png" group-title="大陆卫视",河北卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D10
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DERzrMX25ocu7gkbZAbZIp3LQ%26id%3Dhbws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/f17a70863e213abac648cf2c0975fa87.png" group-title="大陆卫视",黑龙江卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D11
+https://ali.hlspull.yximgs.com/live/bc77e1c65b25012ca8db12d3e358ff2a.flv
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/95d03fedb9867e96ea69aa59d198ae5b.png" group-title="大陆卫视",湖北卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D12
+https://ali.hlspull.yximgs.com/live/637c983d17e948018f50a0674fac2cba.flv
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/cced15e2301aefcc56374669b8841cf6.png" group-title="大陆卫视",江西卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D13
+https://ali.hlspull.yximgs.com/live/de8e9c39d88522443830cbc99daa039c.flv
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/c97c03243af4d641d4e25f4ef87cb3cc.png" group-title="大陆卫视",吉林卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D21
+https://player.ggiptv.com/v/migu8.php%3Ftoken%3DtTI4KfFyDAMUV1MtVjcqS2%252FW%26id%3Djlws
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/74fc5d74452ea644913a950977fca5d2.png" group-title="大陆卫视",辽宁卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D14
+https://ali.hlspull.yximgs.com/live/60d8d5990e01309d0163da761aec038a.flv
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/cddf68286ede702507f089e5aa8ae7e5.png" group-title="大陆卫视",山东卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D16
+https://ali.hlspull.yximgs.com/live/1cc7a61491d3889eaa9387123d575de9.flv
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/f414ec22f12993e13996639d34c14c62.png" group-title="大陆卫视",四川卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D17
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DYPAEV6EF6M6JtApamGKxcmmk%26id%3Dscws
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/ae4cc844873c10620a98d5610afdceb9.png" group-title="大陆卫视",天津卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D18
+https://ali.hlspull.yximgs.com/live/214a38934e753f17612f3db14f80abcf.flv
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/4c6794058ccefe2d561823a849d84430.png" group-title="大陆卫视",云南卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D26
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DUNmjVE%252F40cLHO0aYTC0p9yqd%26id%3Dynws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/d7b25866d437441782e7a316614d8484.png" group-title="大陆卫视",安徽卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D8
+https://ali.hlspull.yximgs.com/live/acc0a33a94ff1d7dbc1f9427ed82bda6.flv
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/c773f7c6705b79b31dd5402eb688e0f4.png" group-title="大陆卫视",河南卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D23
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DrGeOhTxSQLWuzckFBUnSMhZf%26id%3Dhnws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-11/d9bd1f880736e75515f53b4fceacdb1b.png" group-title="大陆卫视",青海卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D25
+https://player.ggiptv.com/v/migu8.php%3Ftoken%3D%252BQhHdoicLlsGqLqWDcYNdu4Q%26id%3Dqhws
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-11/f7031494c8d95edcdb24dae9cc02e4b8.png" group-title="大陆卫视",甘肃卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D24
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DfJKNodg0Qykc1odfUj76kzUR%26id%3Dgsws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/510e9fac7519a5cd8b26ef2ac1a84239.png" group-title="大陆卫视",山西卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D28
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DMQM4fUNOqXXdDgAtxVcm8HFt%26id%3Dsxiws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/83146ff31d651393348a8c3bbfbd43d9.png" group-title="大陆卫视",内蒙古卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D27
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DAHOESB0KI%252BmDouX2WmYxeOkf%26id%3Dnmws
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/0020b8aa2eb8afb075978f3c9ea394c9.png" group-title="大陆卫视",宁夏卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D33
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3Duo8eAYPRmDN0ApPpJ%252BvxCSZ4%26id%3Dnxws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/e094872996d7472d99caafc0af93db1e.png" group-title="大陆卫视",陕西卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D29
+https://player.ggiptv.com/v/migu8.php%3Ftoken%3D4MsX%252F0AARhuGTjFyAvXekb%252Bl%26id%3Dsxws
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/e5aef3924b6f608a804f9462283e3c71.png" group-title="大陆卫视",三沙卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D41
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DFVSgDz7qSpMRTBSo1KPumUZ5%26id%3Dssws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/2f307079a6f90b59792ad6bbf19aab44.png" group-title="大陆卫视",新疆卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D31
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DBfX3Hyj3tUmkoZms6y%252BPvPhH%26id%3Dxjws
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/0d6802a3ffa233a6d4a2afb9340f9159.png" group-title="大陆卫视",安多卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D39
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DJmC%252FLzQm8pdEDYcFnLNsfef4%26id%3Dadws
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/bd0f8eb7988af03eb72f006eb39e55e9.png" group-title="大陆卫视",厦门卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D38
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3DW4s5vbIFywTKyHA06pT8Rh5t%26id%3Dxmws
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-14/30dfff1f70d6045db79b3c5cbd38b2cb.png" group-title="大陆卫视",康巴卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dws%26id%3D35
+https://player.ggiptv.com/v/cqyx.php%3Ftoken%3D%252FN%252BFUU7ZYYri00BTCr1hStSV%26id%3Dkbws
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="新增频道",足球
 https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 #EXTINF:-1 tvg-name="香港有线18台" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="港澳频道",香港有线18台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D9
+https://ali.hlspull.yximgs.com/live/dda196dc4c9e35a7b95ac970944fdb6e.flv
 #EXTINF:-1 tvg-name="香港有线18台(普通话)" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="港澳频道",香港有线18台(普通话)
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D12
+https://ali.hlspull.yximgs.com/live/feb11fe540e7e18f808d7a09c70f98e8.flv
 #EXTINF:-1 tvg-name="香港有线新闻台" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="港澳频道",香港有线新闻台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D6
+https://ali.hlspull.yximgs.com/live/9b70cb866130944754afe988e42d04b4.flv
 #EXTINF:-1 tvg-name="TVB 翡翠台" tvg-logo="https://static.ymedium.top/media/img/2023-09-01/2c99cb2f2dde32d3fae9ec262a162c86.png" group-title="港澳频道",TVB 翡翠台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D20
+https://ali.hlspull.yximgs.com/live/96324c157f1806489d2a56d22630322b.flv
 #EXTINF:-1 tvg-name="TVB 黄金翡翠台" tvg-logo="https://static.ymedium.top/media/other/2024-01-17/0bfc1ddecce41331aa3f580349ca5be1.webp" group-title="港澳频道",TVB 黄金翡翠台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D21
+https://ali.hlspull.yximgs.com/live/826ff62d8f4569d37208e591348a251f.flv
 #EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://static.ymedium.top/media/img/2023-09-01/ae1b3b34788eab75757ff6faec58b437.png" group-title="港澳频道",TVB 星河台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D25
+https://ali.hlspull.yximgs.com/live/9f5fd99929fb0d900a811c6ccd534524.flv
 #EXTINF:-1 tvg-name="TVB 娱乐新闻台" tvg-logo="https://static.ymedium.top/media/img/2023-09-01/37963d662b052768cce4ddc78f351b66.png" group-title="港澳频道",TVB 娱乐新闻台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D24
+https://ali.hlspull.yximgs.com/live/9b88d6ef00f63ba09ae0f190cd63554e.flv
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/1c6d11dd96fb687d6e2dbadb50b6e158.png" group-title="港澳频道",TVB PLUS
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D23
+https://ali.hlspull.yximgs.com/live/a65978055fc3123cfe3e971a056fa095.flv
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://static.ymedium.top/media/other/2024-01-17/c4b2bf2a86988b820305287f6f5c0b8a.webp" group-title="港澳频道",香港卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dgt%26id%3D30
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="澳亚卫视" tvg-logo="https://static.ymedium.top/media/other/2024-01-17/752a763e1cf551e425eedd309b8207fa.webp" group-title="港澳频道",澳亚卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dgt%26id%3D41
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://static.ymedium.top/media/other/2024-01-17/5550b22613fd643366e49036158cab38.webp" group-title="港澳频道",澳门卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dgt%26id%3D36
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 tvg-name="澳门莲花卫视" tvg-logo="https://static.ymedium.top/media/img/2023-05-17/e71736a532525f498ac213159f799699.png" group-title="港澳频道",澳门莲花卫视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dgt%26id%3D35
+https://player.ggiptv.com/v/lotustv.php%3Ftoken%3DDyZhCDRbZyffhXowF23hZrsB%26
 #EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://static.ymedium.top/media/other/2024-01-25/c6de9ea82b5b4052c1a11e4c880e45ab.webp" group-title="港澳频道",澳门资讯
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dgt%26id%3D37
+http://61.244.22.5/ch5/info_ch5.live/chunklist_w1027178327.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://static.ymedium.top/media/other/2024-01-25/8074669df94cfc33cac4e7813cc59310.webp" group-title="港澳频道",澳视澳门
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dgt%26id%3D38
+http://61.244.22.5/ch1/ch1.live/chunklist_w280637493.m3u8
 #EXTINF:-1 tvg-name="HKC 18台" tvg-logo="https://static.ymedium.top/media/other/2024-01-11/5b21a3bdc8b6472605585d2bd71fa5ab.webp" group-title="港澳频道",HKC 18台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dgt%26id%3D12
+https://t40.iptv200.com/live/hk603.flv%3Fsign%3D1737080189-c85b59e312c0b729181bef94d71dce67
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://static.ymedium.top/media/other/2024-11-20/c790af66e85f6a4c69b84659f87f7363.jfif" group-title="港澳频道",TVBS HD
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D70
+https://ali.hlspull.yximgs.com/live/1bfc9ef28dea4defcf8f6a2840742b6a.flv
 #EXTINF:-1 tvg-name="亚洲卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-30/7df299056598371053164d49f87b0e6a.jpg" group-title="港澳频道",亚洲卫视
 https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 tvg-name="澳亚卫视" tvg-logo="https://static.ymedium.top/media/img/2024-11-30/ac8a3a68d179678a2c942bbdbad5080d.jpg" group-title="港澳频道",澳亚卫视
 https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 #EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="台湾综合",纬来育乐台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D81
+https://ali.hlspull.yximgs.com/live/d03ce48724d320c6d5bf65a2a4640fbf.flv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://static.ymedium.top/media/other/2024-01-17/059b1ee2d4e5b0394db0077a7b8d6a79.webp" group-title="台湾综合",东森超视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D95
+https://ali.hlspull.yximgs.com/live/6289e1767c31688e3ac447bd532baf43.flv
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://static.ymedium.top/media/img/2023-05-15/145339891c6f7a3b10c419e5609eecad.png" group-title="台湾综合",中视
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D67
+https://ali.hlspull.yximgs.com/live/56a93ef7a678bf1d034bdd0ede8d9505.flv
 #EXTINF:-1 tvg-name="中视菁采台" tvg-logo="https://static.ymedium.top/media/img/2023-09-19/59ebd42720562317d7e597aa2e827ce7.png" group-title="台湾综合",中视菁采台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D58
+https://ali.hlspull.yximgs.com/live/1d35b7f1ef14ec134dd1bced621fbbf6.flv
 #EXTINF:-1 tvg-name="好消息" tvg-logo="https://static.ymedium.top/media/img/2023-11-15/48bdde48abac2625bce09e9d576a201e.png" group-title="台湾综合",好消息
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D92
+https://ali.hlspull.yximgs.com/live/81a13510a13fcd04dd164d7c7afa2623.flv
 #EXTINF:-1 tvg-name="KLT-靖天国际台" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/c1554ffd0e9d53c23b876fb106ff27ea.png" group-title="台湾综合",KLT-靖天国际台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D69
+https://ali.hlspull.yximgs.com/live/22ae9fea7a9166b4c0b2dc4c1dda0a18.flv
 #EXTINF:-1 tvg-name="公视新闻" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/544ec39a29335b6ddd858cdcb314cdd5.png" group-title="台湾综合",公视新闻
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D57
+
 #EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://static.ymedium.top/media/img/2023-09-19/004a1203814d37e021b5fcb50cd2b323.png" group-title="台湾综合",靖天综合台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D64
+https://ali.hlspull.yximgs.com/live/da8dcf7449b0c564e5ae9701f010e673.flv
 #EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://static.ymedium.top/media/img/2023-05-15/bbf7de5abf4b2ec22dc3677245594a6b.png" group-title="台湾综合",客家电视台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D79
+https://ali.hlspull.yximgs.com/live/23388e8db9b8e214255831708f6e6b2b.flv
 #EXTINF:-1 tvg-name="ARIRANG 阿里郎频道" tvg-logo="https://static.ymedium.top/media/img/2023-11-09/8513336ce5c06e9bac9c09ca95afae43.png" group-title="台湾综合",ARIRANG 阿里郎频道
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D88
+https://ali.hlspull.yximgs.com/live/96220ed0a0f4661273b8f2f8ab275048.flv
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://static.ymedium.top/media/other/2024-01-24/1431476b939b5aab63ad4aa3c88067b1.webp" group-title="台湾新闻财经",TVBS HD
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D1
+https://ali.hlspull.yximgs.com/live/1bfc9ef28dea4defcf8f6a2840742b6a.flv
 #EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="https://static.ymedium.top/media/img/2023-09-19/3219711760f7d23df37e6ba379db6b28.png" group-title="台湾新闻财经",寰宇财经台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D18
+https://ali.hlspull.yximgs.com/live/1957880655d785854f58d36e8dd53502.flv
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://static.ymedium.top/media/img/2023-05-15/2f530a19f9ec55c127ba68a5bd2dfea4.png" group-title="台湾新闻财经",年代新闻
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D46
+https://ali.hlspull.yximgs.com/live/eab698d02e6398780d656e4818a5002e.flv
 #EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://static.ymedium.top/media/img/2023-11-15/da3e22afe77f3f2209b2b565bebf0402.png" group-title="台湾新闻财经",靖天资讯台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D65
+https://ali.hlspull.yximgs.com/live/679e732adc962f388ab937d51b44f128.flv
 #EXTINF:-1 tvg-name="MOMO综合台" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="台湾影音娱乐",MOMO综合台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dwintv123%26id%3D94
+https://ali.hlspull.yximgs.com/live/490b46b9f818d35576c064c3fbad5b92.flv
 #EXTINF:-1 tvg-name="龙华电影台" tvg-logo="https://static.ymedium.top/media/img/2023-05-15/e9d3aaa2365ec961e38f3dfec83b2f2c.png" group-title="台湾影音娱乐",龙华电影台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D31
+https://ali.hlspull.yximgs.com/live/24a6cd0feb771dd1fa9c360d490f371f.flv
 #EXTINF:-1 tvg-name="龙华戏剧台" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/b0f489d652b744bafc50e78513ca4df6.png" group-title="台湾影音娱乐",龙华戏剧台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D40
+https://ali.hlspull.yximgs.com/live/1b7deb3fa9483bd13aa39abd00d8e1d2.flv
 #EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/562e933a4d9c82abd002b34ab2fc1da9.png" group-title="台湾影音娱乐",龙华日韩台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D73
+https://ali.hlspull.yximgs.com/live/b5cf1577d466e1a123763d6a44be18d9.flv
 #EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/4bee8d93e9ce1b30fa3d67b6676990d8.png" group-title="台湾影音娱乐",八大精彩台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D59
+https://ali.hlspull.yximgs.com/live/441745d4e81617e44c47521a30456a05.flv
 #EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://static.ymedium.top/media/other/2024-01-12/c121bd8d283bebdf400c10b84f1aafa5.webp" group-title="台湾影音娱乐",八大综艺
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D60
+https://ali.hlspull.yximgs.com/live/13ffab32a033e44baf8dbce340ba7e3e.flv
 #EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://static.ymedium.top/media/img/2023-09-19/ca4d5c7654ee3e9283ef7bab07954366.png" group-title="台湾影音娱乐",采昌影剧台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D32
+https://ali.hlspull.yximgs.com/live/9e3750036a4233d90d84782ff5a52454.flv
 #EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://static.ymedium.top/media/img/2023-11-09/3b5d0c8c381f0aef8f802b06509fe21f.png" group-title="台湾影音娱乐",猪哥亮歌厅秀
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D82
+https://ali.hlspull.yximgs.com/live/59d334a3da4e61421dc1f1327b2be406.flv
 #EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://static.ymedium.top/media/img/2023-11-15/2b8320d3d81f0948c52781752ecd803c.png" group-title="台湾影音娱乐",中视经典台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D35
+https://ali.hlspull.yximgs.com/live/ef12ae97776c2df59e9224d8ae16ea15.flv
 #EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://static.ymedium.top/media/img/2023-07-18/bef189dee708f89262d2c97794c2d5e8.png" group-title="台湾影音娱乐",靖洋戏剧台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D37
+https://ali.hlspull.yximgs.com/live/315117cd74479a99fc93a878eaf1bb0b.flv
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/73aaa94ef1d0997560ae56121fa4c2c2.png" group-title="台湾影音娱乐",靖天映画
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D70
+https://ali.hlspull.yximgs.com/live/348f4f10b1b5d02e57d735e20c435143.flv
 #EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://static.ymedium.top/media/img/2023-05-15/97d335b08f3c19e143b0459e1d25f9b5.png" group-title="台湾影音娱乐",靖天电影台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D30
+https://ali.hlspull.yximgs.com/live/86632ef28168946d116a2d06bae67aa5.flv
 #EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/d53ef6804224a0c12ec50fe98d76caee.png" group-title="台湾影音娱乐",靖天戏剧台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D38
+https://ali.hlspull.yximgs.com/live/f9caa8bd922874dc737479ed17649985.flv
 #EXTINF:-1 tvg-name="韩国娱乐台 KMTV" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/f943a86685b7b98ec9cadbd0ad8f555d.png" group-title="台湾影音娱乐",韩国娱乐台 KMTV
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D99
+https://ali.hlspull.yximgs.com/live/edf8fb65763cd30795498b8ed5ed6924.flv
 #EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://static.ymedium.top/media/img/2023-09-19/c038fdf4f44e39d90ad47bbb1ab22bb8.png" group-title="台湾影音娱乐",公视戏剧
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D39
+https://ali.hlspull.yximgs.com/live/fbd0da02c5c4ec09ec2ad692d7d678b8.flv
 #EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/9bd94d81a0a73757a392f68af0aa51a4.png" group-title="台湾影音娱乐",影迷数位电影台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D27
+https://ali.hlspull.yximgs.com/live/c1d9fb714648ebc9364ca5a635bd9ca2.flv
 #EXTINF:-1 tvg-name="视纳华仁纪实频道" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/63f7247e1bc89553ee651ad2d597dc84.png" group-title="台湾影音娱乐",视纳华仁纪实频道
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D57
+https://ali.hlspull.yximgs.com/live/d75b96e7a072bd70bf47640d24d8a048.flv
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",广东体育
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D3
+https://ali.hlspull.yximgs.com/live/0f12ad50ea49eb816294797fbd4a4d6b.flv
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",劲爆体育
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D4
+https://ali.hlspull.yximgs.com/live/c2c1e2d4e1bf165a2888ecd64b9f580d.flv
 #EXTINF:-1 tvg-name="新视觉HD" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",新视觉HD
 https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D6
 #EXTINF:-1 tvg-name="极速汽车" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",极速汽车
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D12
+https://player.ggiptv.com/v/bstv.php%3Ftoken%3D3f7dXH%252B%252FTzsPNq3n%252FK3i63Xq%26id%3Djsqc
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",游戏风云
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D13
+https://player.ggiptv.com/v/bstv.php%3Ftoken%3DaxtJeo907015Fca8woN0xPl6%26id%3Dyxfy
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",四海钓鱼
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D14
+https://player.ggiptv.com/v/migu8.php%3Ftoken%3DDXXF3Pad5vrvi6Kf%252BDn56%252FTV%26id%3Dshdy
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",先锋乒羽
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D16
+https://player.ggiptv.com/v/hunantv.php%3Fid%3D329
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",南国都市
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D19
+https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",广州竞赛
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D20
+https://justsometime.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",魅力足球
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D22
+https://player.ggiptv.com/v/bstv.php%3Ftoken%3D4Fh2MJaTzHaCYl7QWuS1DVLI%26id%3Dmlzq
 #EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",博斯魅力
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D44
+https://ali.hlspull.yximgs.com/live/0f5a3cf8797733dea9fc99c7b7401082.flv
 #EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://static.ymedium.top/background/wsj.png" group-title="体育竞技",博斯无限2
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dty%26id%3D51
+https://ali.hlspull.yximgs.com/live/68d4a58ab4ef92b60df16be84d639cf5.flv
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://static.ymedium.top/media/img/2023-04-12/68d67143922d406ef56546d7125381df.png" group-title="少儿动画",靖天卡通台
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D66
+https://ali.hlspull.yximgs.com/live/64f7802492c4b1e66419e21c08a2fce2.flv
 #EXTINF:-1 tvg-name="靖洋卡通 NiceBingo" tvg-logo="https://static.ymedium.top/media/img/2023-09-11/d5377a380f0693a61a2fc680582ff536.png" group-title="少儿动画",靖洋卡通 NiceBingo
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D68
+https://ali.hlspull.yximgs.com/live/c756a8d307e0ee861d0c65e811e8d337.flv
 #EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://static.ymedium.top/media/img/2023-09-19/cb2f180f5a2eef47be96b2fc2a57b3a3.png" group-title="少儿动画",达文西频道
-https://zhibo.ylxai.top/api/iptv/playurl%3Ftid%3Dlitv%26id%3D87
+https://ali.hlspull.yximgs.com/live/a718b8854311332646bffef9836dd1cc.flv
