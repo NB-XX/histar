@@ -4,6 +4,7 @@ from requests.packages.urllib3.util.retry import Retry
 import urllib3
 from datetime import datetime as dt
 import os
+import re
 from urllib.parse import quote
 
 # 忽略 SSL 警告
@@ -19,6 +20,32 @@ adapter = HTTPAdapter(max_retries=retry_strategy)
 http = requests.Session()
 http.mount("https://", adapter)
 http.mount("http://", adapter)
+
+# 获取 buildId
+def get_build_id():
+    url = "https://hlove.tv/"
+    try:
+        response = http.get(url, verify=False)
+        if response.status_code == 200:
+            # 使用正则表达式提取 buildId
+            match = re.search(r'"buildId":\s*"([a-zA-Z0-9]+)"', response.text)
+            if match:
+                return match.group(1)
+            else:
+                print("未找到 buildId")
+                return None
+        else:
+            print(f"请求失败，状态码：{response.status_code}")
+            return None
+    except requests.exceptions.RequestException as e:
+        print(f"请求错误：{e}")
+        return None
+
+# 动态获取 buildId
+build_id = get_build_id()
+if not build_id:
+    print("无法获取 buildId，程序结束")
+    exit()
 
 # 初始化 m3u8 文件头
 m3u8_file = "#EXTM3U\n"
@@ -44,7 +71,7 @@ for channelGroup in channelGroups:
         channel_name = channel["name"]
         channel_logo = channel["img"]
         channel_url = channel["url"]
-        channel_info_url = f"https://hlove.tv/_next/data/RicnW5tNb0hrYM_a3IYH7/live/{channel_url}.json?id={channel_url}"
+        channel_info_url = f"https://hlove.tv/_next/data/{build_id}/live/{channel_url}.json?id={channel_url}"
 
         try:
             response = http.get(channel_info_url, verify=False)
