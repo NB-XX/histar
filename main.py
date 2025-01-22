@@ -45,7 +45,7 @@ for channelGroup in channelGroups:
         channel_name = channel["name"]
         channel_logo = channel["img"]
         channel_url = channel["url"]
-        channel_info_url = f"https://hlove.tv/_next/data/RicnW5tNb0hrYM_a3IYH7/live/{channel_url}.json?id={channel_url}"
+        channel_info_url = f"https://hlove.tv/_next/data/UownJM_PaW3WIj8hX95fG/live/{channel_url}.json?id={channel_url}"
 
         try:
             response = http.get(channel_info_url, verify=False)

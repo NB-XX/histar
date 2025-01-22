@@ -21,6 +21,10 @@ http = requests.Session()
 http.mount("https://", adapter)
 http.mount("http://", adapter)
 
+def fake_token():
+    # JWT token伪造
+    return token
+
 # 获取 buildId
 def get_build_id():
     url = "https://hlove.tv/"
@@ -79,10 +83,11 @@ for channelGroup in channelGroups:
                 channel_info = response.json()
                 m3u8_url = channel_info.get("pageProps", {}).get("purl", "")
                 if m3u8_url:
-                    # 如果 URL 有 iptv/playurl 模式，进行转换
-                    if "iptv/playurl" in m3u8_url:
+                    # 如果 URL 有 auth/zhibo 模式，进行转换
+                    if "auth/zhibo" in m3u8_url:
                         try:
-                            redirect_response = http.get(m3u8_url, allow_redirects=False, verify=False)
+                            token = fake_token()
+                            redirect_response = http.get(m3u8_url+token, allow_redirects=False, verify=False)
                             if redirect_response.status_code == 302:
                                 m3u8_url = redirect_response.headers.get("Location", m3u8_url)
                         except requests.exceptions.RequestException as e:
@@ -90,7 +95,7 @@ for channelGroup in channelGroups:
 
                     m3u8_url_encoded = quote(m3u8_url, safe=':/')
                     m3u8_file += f"#EXTINF:-1 tvg-name=\"{channel_name}\" tvg-logo=\"{channel_logo}\" group-title=\"{group_name}\",{channel_name}\n{m3u8_url_encoded}\n"
-                    print(f"成功添加频道：{channel_name}")
+                    print(f"成功添加频道：{channel_name}, URL：{m3u8_url}")
                 else:
                     print(f"未找到有效的 m3u8 URL：{channel_name}")
             else:
